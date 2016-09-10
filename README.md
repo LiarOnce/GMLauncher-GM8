@@ -4,9 +4,11 @@ A Game Launcher Example with GameMaker 8.0
 
 这次是GM8版，不要再吐槽了。
 
-#Version 1.1.0.0
-
-1，将GameMaker:Studio的Simple Version Checker移植到GameMaker 8.0以支持检查更新
+# 版本历史
+Version 1.2.0.0：
+支持下载更新
+Version 1.1.0.0：
+将GameMaker:Studio的Simple Version Checker移植到GameMaker 8.0以支持检查更新
 
 # 为什么会有这个版本
 
